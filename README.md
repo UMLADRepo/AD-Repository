@@ -3,8 +3,6 @@ Activity diagrams (AD) are the basic flow diagrams used for depicting the behavi
 
 This repository is an initiative taken by the faculty from Computer Science & Engineering, Thapar University, Patiala (Vinay Arora) (vinay.arora@thapar.edu) and his B.E. students who had studied Software Engineering from him. Main student contributors are Mr. Kartik Gogia (kartikgogia42@gmail.com) and Mr. Jashanjot Sidhu (isidhu96@gmail.com) from 2018 batch of B.E. Software Engineering from CSE Department of Thapar University, Patiala.
 
-Idea and motivation has been taken from the research paper titled "Towards clone detection in UML domain models" by Harald Störrle, where the author has taken some student projects as subject system for validating his proposed work. Dr. Störrle is Associate Professor at the Danish Technical University (DTU) in Lyngby near Copenhagen from DTU.
-
 Here, in this repository, the folder name denotes the subject undertaken for drawing AD. One main folder further constitute files like, .docx file having scenario explanation, .emx file having AD drawn using rational software architect (RSA) tool, image file for AD, and XMI file corresponding to AD.
 
 In near future we will upload more AD that can be used by the academicians in their respective fields!
